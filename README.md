@@ -1,4 +1,4 @@
 # Javasript
-This is the realiztaion of the dynamic elements of the website such as: accordeon, tabs, slide show on the JavaScript language.
 -------------------------------------------------------------------------------------------------------------------------------
+This is the realiztaion of the dynamic elements of the website such as: accordeon, tabs, slide show on the JavaScript language.
 Скрипты Табов, Аккордеона и Слайд-шоу
